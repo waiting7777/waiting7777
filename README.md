@@ -1,16 +1,13 @@
-### Hi there 👋
+### Waiting7777
 
-<!--
-**waiting7777/waiting7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm waiting7777, a Seniro Frontend Engineer, also a gamer, somtimes stream my gaming on Twitch!
+And the crypto believer, I think it will change the world to more decentralize!
 
-Here are some ideas to get you started:
+### Gaming Experiance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+World of Warcraft, Arena Taiwan #1 Cruel Gladiator,
+Hearthstone, NA/TW Legendary,
+Teamfight Tactics, NA/TW Grand Master
+
+### Stat
+[![Let's Write github stats](https://github-readme-stats.vercel.app/api?username=waiting7777&show_icons=true&hide=contribs,prs&title_color=00BAFF&icon_color=008BBF)](https://github.com/waiting7777)
