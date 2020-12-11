@@ -10,4 +10,4 @@ Hearthstone, NA/TW Legendary,
 Teamfight Tactics, NA/TW Grand Master
 
 ### Stat
-[![Let's Write github stats](https://github-readme-stats.vercel.app/api?username=waiting7777&show_icons=true&hide=contribs,prs&title_color=00BAFF&icon_color=008BBF)](https://github.com/waiting7777)
+[![Let's Write github stats](https://github-readme-stats.vercel.app/api?username=waiting7777&show_icons=true&hide=contribs,prs&title_color=1E404B;&icon_color=1E404B)](https://github.com/waiting7777)
