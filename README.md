@@ -1,6 +1,13 @@
 <div align=center>
 
-# Waiting7777 :wave:
+# Waiting7777
+
+## Introduction
+
+I'm waiting7777, a Seniro Frontend Engineer, play well with data visualization.
+
+also a gamer, World of Warcraft, Arena Taiwan #1, Teamfight Tactics, Skyweave Master
+
 <p>
 
 [![Github Stars](https://img.shields.io/github/stars/waiting7777?color=faf408&label=github%20stars&logo=github)](https://github.com/waiting7777)
@@ -8,13 +15,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=waiting7777)
 
 </p>
-
-## Introduction :raised_hands:
-
-I'm waiting7777, a Seniro Frontend Engineer, play well with data visualization.
-
-also a gamer, World of Warcraft, Arena Taiwan #1, Teamfight Tactics, Skyweave Master
-
 ## Orientation :dart:
 
 I love coding. :heart:
