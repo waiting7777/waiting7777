@@ -7,6 +7,8 @@
 I'm waiting7777, a Seniro Frontend Engineer, play well with data visualization.
 
 also a gamer, World of Warcraft, Arena Taiwan #1, Teamfight Tactics, Skyweave Master
+  
+## statistic
 
 <p>
 
@@ -15,6 +17,7 @@ also a gamer, World of Warcraft, Arena Taiwan #1, Teamfight Tactics, Skyweave Ma
 ![Profile View Counter](https://komarev.com/ghpvc/?username=waiting7777)
 
 </p>
+
 ## Orientation :dart:
 
 I love coding. :heart:
