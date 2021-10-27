@@ -1,6 +1,6 @@
 <div align=center>
-# Waiting7777 :wave:
 
+# Waiting7777 :wave:
 <p>
 
 [![Github Stars](https://img.shields.io/github/stars/waiting7777?color=faf408&label=github%20stars&logo=github)](https://github.com/waiting7777)
