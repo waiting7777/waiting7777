@@ -1,3 +1,4 @@
+<div align=center>
 # Waiting7777 :wave:
 
 <p>
@@ -49,3 +50,4 @@ I love Front End technologys. :heart:
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Let's Write github stats](https://github-readme-stats.vercel.app/api?username=waiting7777&show_icons=true&hide=contribs,prs&title_color=1E404B;&icon_color=1E404B)](https://github.com/waiting7777)
+</div>
